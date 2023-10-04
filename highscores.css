@@ -1,0 +1,13 @@
+.high-score{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    font-family: 'Roboto', cursive;
+    font-size: 2rem; 
+    color: black;
+}
+
+.finalScore{
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Inside which HTML element do we put the JavaScript??",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": "How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": "What is the correct way to declare a variable in JavaScript?",
+    "choice1": "var variable_name;",
+    "choice2": "const variable_name;",
+    "choice3": "let variable_name;",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the difference between var and let?",
+    "choice1": "var variables are function-scoped, while let variables are block-scoped.",
+    "choice2": "var variables can be reassigned and redeclared, while let variables can only be reassigned.",
+    "choice3": "var variables are hoisted to the top of the function scope, while let variables are not.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the difference between const and let?",
+    "choice1": "const variables cannot be reassigned or redeclared.",
+    "choice2": "const variables must be initialized when declared.",
+    "choice3": "Both const and let variables are block-scoped.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the difference between == and ===?",
+    "choice1": "== compares the values of two operands, while === compares the values and types of two operands.",
+    "choice2": "== will coerce the operands to the same type before comparing them, while === will not.",
+    "choice3": "Both == and === are equality operators.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is an array?",
+    "choice1": "An ordered collection of data.",
+    "choice2": "A collection of data that can be accessed by its index.",
+    "choice3": "A collection of data that can grow or shrink dynamically.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is an object?",
+    "choice1": "A collection of key-value pairs.",
+    "choice2": "A collection of data that can be accessed by its properties.",
+    "choice3": "A collection of data that can be used to represent real-world objects.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is a function?",
+    "choice1": "A block of code that can be reused.",
+    "choice2": "A block of code that can be executed on demand.",
+    "choice3": "A block of code that can take input and return output.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the difference between a function declaration and a function expression?",
+    "choice1": "A function declaration is named and hoisted to the top of the scope, while a function expression is anonymous and not hoisted.",
+    "choice2": "A function declaration can be used recursively, while a function expression cannot.",
+    "choice3": "A function declaration can be passed as an argument to another function, while a function expression cannot.",
+    "choice4": "All of the above",
+    "answer": 1
+  },
+  {
+    "question": "What is the difference between a method and a function?",
+    "choice1": "A method is a function that is attached to an object, while a function is not.",
+    "choice2": "A method can be accessed using the dot notation, while a function cannot.",
+    "choice3": "A method can be used to change the state of an object, while a function cannot.",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the correct syntax for declaring a function in JavaScript?",
+    "choice1": "function myFunction() {}",
+    "choice2": "function(myFunction) {}",
+    "choice3": "def myFunction() {}",
+    "choice4": "None of the above",
+    "answer": 1
+  },
+  {
+    "question": "What is the correct syntax for accessing the value of an element with the ID of `myElement` in JavaScript?",
+    "choice1": "document.getElementById('myElement').value;",
+    "choice2": "document.querySelector('#myElement').value;",
+    "choice3": "document.getElementsByClassName('myElement').value;",
+    "choice4": "All of the above",
+    "answer": 1
+  },
+  {
+    "question": "What is the `this` keyword in JavaScript?",
+    "choice1": "The `this` keyword refers to the current object.",
+    "choice2": "The `this` keyword refers to the global object.",
+    "choice3": "The `this` keyword refers to the window object.",
+    "choice4": "None of the above",
+    "answer": 1
+  }
+]
